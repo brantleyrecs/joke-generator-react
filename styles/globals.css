@@ -18,5 +18,20 @@ a {
 }
 
 body {
-  background-color: #88effd;
+  background-color: #334cb2;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(133, 134, 147);
+  border: black solid 2px;
+  border-radius: 10px;
+  box-shadow: 20px 20px 25px rgb(0, 0, 0);
+  padding: 10px;
+  text-align: center;
+  width: 600px;
 }
